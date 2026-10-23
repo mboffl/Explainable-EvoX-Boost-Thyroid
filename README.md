@@ -109,28 +109,55 @@ The manuscript describes the following validation components:
 
 The repository will provide the corresponding implementation, experimental configurations, and results where these materials are available and approved for public release.
 
-## Requirements
+## Experimental Environment
 
-The implementation uses Python-based machine learning and data analysis tools.
+All experiments were performed on a GPU-accelerated virtual workstation running Ubuntu 22.04.5 LTS within a Docker container.
 
-The final dependency list will be provided in `requirements.txt` after verifying the actual environment used for the experiments.
+### Hardware Configuration
 
-Please use the package versions specified in the repository when reproducing the experiments.
+| Component | Specification |
+|---|---|
+| Processor | Intel Core i9-14900K |
+| CPU cores | 24 cores, 32 threads |
+| RAM | 64 GB |
+| Storage | 1 TB SSD |
+| GPU | NVIDIA RTX A4000 |
+| GPU memory | 16 GB GDDR6 |
+
+### Software Configuration
+
+| Component | Version |
+|---|---|
+| Operating System | Ubuntu 22.04.5 LTS |
+| Container Platform | Docker |
+| NVIDIA Driver | 580.159.03 |
+| CUDA Driver Compatibility | CUDA 13.0 |
+| CUDA Toolkit | 11.5 |
+| Python | 3.10.12 |
+| XGBoost | 3.1.1 |
+| SHAP | 0.49.1 |
+| scikit-learn | 1.7.1 |
+| pandas | 2.3.1 |
+| NumPy | 2.2.6 |
+| Matplotlib | 3.10.3 |
+
+### Computational Environment
+
+GPU acceleration was enabled using the NVIDIA driver and container runtime.
+
+Docker was used to preserve the computational environment during model training, evaluation, and SHAP-based interpretation.
+
+The experiments were conducted using the software versions and hardware configuration described above.
 
 ## Reproducibility
 
-To support reproducibility, the repository will include available experimental materials such as:
+To support reproducibility, this repository provides the available implementation, experimental notebooks, evaluation materials, and explainability outputs associated with the research.
 
-- Data preprocessing procedures.
-- Model training and evaluation notebooks.
-- Model configurations.
-- SHAP analysis procedures.
-- Evaluation metrics and result tables.
-- Experimental environment information.
+The experimental environment described in this section corresponds to the configuration reported in the manuscript.
 
-The exact execution instructions will be provided after the source files and dependencies have been verified.
+Please refer to the repository files for the available implementation and execution instructions.
 
-**Note:** Results may vary depending on dataset versions, preprocessing, class distribution, random seeds, software versions, and hardware configuration.
+**Note:** Reproducing the reported results may require compatible GPU hardware, NVIDIA drivers, CUDA components, and Python dependencies.
 
 ## Responsible Use
 
