@@ -1,0 +1,12 @@
+metric,value
+Number of repeats,10.0
+Sample fraction,0.8
+Sample size,3620.0
+Mean Spearman rho,0.9998977617117606
+SD Spearman rho,0.00011053236479561237
+Minimum Spearman rho,0.9997809179537736
+Maximum Spearman rho,0.9999999999999999
+Mean Top-5 Jaccard,1.0
+SD Top-5 Jaccard,0.0
+Mean Top-10 Jaccard,1.0
+SD Top-10 Jaccard,0.0

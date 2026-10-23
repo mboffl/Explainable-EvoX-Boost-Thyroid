@@ -1,0 +1,6 @@
+Model,Accuracy_pct,Macro_F1_pct,Weighted_F1_pct,Balanced_Accuracy_pct
+Random_Forest,98.72,70.15,98.54,69.8
+Standard_XGBoost,98.81,75.28,98.69,74.8
+EvoX_Boost,98.85,74.18,98.76,71.94
+LightGBM,98.75,71.08,98.56,70.63
+CatBoost,98.79,73.42,98.68,73.11

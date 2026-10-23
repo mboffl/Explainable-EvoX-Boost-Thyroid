@@ -1,0 +1,16 @@
+class_id,class,full_e2_test_count,treatment_ablation_count,measurement_ablation_count
+0,T3 toxic,0,0,0
+1,compensated hypothyroid,38,0,0
+2,decreased binding protein,1,0,0
+3,discordant,5,0,0
+4,goitre,2,0,0
+5,hyperthyroid,12,0,0
+6,increased binding protein,21,0,0
+7,negative,4358,4526,4526
+8,overreplacement,6,0,0
+9,primary hypothyroid,19,0,0
+10,replacement therapy,11,0,0
+11,secondary hypothyroid,0,0,0
+12,secondary toxic,0,0,0
+13,sick,39,0,0
+14,underreplacement,14,0,0

@@ -1,0 +1,6 @@
+Model,Accuracy_pct,Macro_F1_default_pct,Balanced_Accuracy_pct,Macro_F1_fixed15_pct,Macro_Precision_fixed15_pct,Macro_Recall_fixed15_pct,Weighted_F1_pct
+Random_Forest,98.4976,53.4525,48.9404,46.3255,56.9017,42.415,98.129
+Standard_XGBoost,98.8069,75.2794,74.8001,65.2422,68.9764,64.8268,98.7586
+LightGBM,94.6089,37.3699,50.8064,34.8786,30.1688,44.0322,95.2981
+CatBoost,98.6743,71.2821,66.4028,61.7778,73.7914,57.5491,98.4854
+EvoX_Boost,98.8511,74.1821,71.9439,64.2912,71.198,62.3514,98.7565
