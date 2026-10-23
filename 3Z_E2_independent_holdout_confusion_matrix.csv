@@ -1,0 +1,16 @@
+,T3 toxic,compensated hypothyroid,decreased binding protein,discordant,goitre,hyperthyroid,increased binding protein,negative,overreplacement,primary hypothyroid,replacement therapy,secondary hypothyroid,secondary toxic,sick,underreplacement
+T3 toxic,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+compensated hypothyroid,0,37,0,0,0,0,0,2,0,0,0,0,0,0,0
+decreased binding protein,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+discordant,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0
+goitre,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+hyperthyroid,0,0,0,0,0,11,0,5,0,0,0,0,0,0,0
+increased binding protein,0,0,0,0,0,0,19,11,0,0,0,0,0,0,0
+negative,0,1,0,1,0,1,2,4321,0,0,3,0,0,0,4
+overreplacement,0,0,0,0,0,0,0,0,5,0,2,0,0,0,0
+primary hypothyroid,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0
+replacement therapy,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0
+secondary hypothyroid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+secondary toxic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sick,0,0,0,0,0,0,0,7,0,0,0,0,0,39,0
+underreplacement,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10

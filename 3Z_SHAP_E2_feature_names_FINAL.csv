@@ -1,0 +1,39 @@
+feature_index,feature
+0,num__age
+1,num__sex
+2,num__on thyroxine
+3,num__query on thyroxine
+4,num__on antithyroid medication
+5,num__sick
+6,num__pregnant
+7,num__thyroid surgery
+8,num__I131 treatment
+9,num__query hypothyroid
+10,num__query hyperthyroid
+11,num__lithium
+12,num__goitre
+13,num__tumor
+14,num__hypopituitary
+15,num__psych
+16,num__TSH measured
+17,num__TSH
+18,num__T3 measured
+19,num__T3
+20,num__TT4 measured
+21,num__TT4
+22,num__T4U measured
+23,num__T4U
+24,num__FTI measured
+25,num__FTI
+26,num__TBG measured
+27,cat__referral source_STMW
+28,cat__referral source_SVHC
+29,cat__referral source_SVHD
+30,cat__referral source_SVI
+31,cat__referral source_other
+32,cat__dataset_name_allbp
+33,cat__dataset_name_allhyper
+34,cat__dataset_name_allhypo
+35,cat__dataset_name_allrep
+36,cat__dataset_name_dis
+37,cat__dataset_name_sick

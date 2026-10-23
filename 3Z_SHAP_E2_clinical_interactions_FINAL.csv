@@ -1,0 +1,352 @@
+Rank,Feature_1,Feature_2,Mean_Absolute_SHAP_Interaction
+6,num__on thyroxine,num__TSH,0.013035333
+7,num__on thyroxine,num__FTI,0.012682428
+10,num__TT4,num__FTI,0.011949404
+11,num__TSH,num__TT4,0.011287121
+12,num__TSH,num__FTI,0.010970938
+13,num__T3,num__FTI,0.010322346
+17,num__T3,num__TT4,0.007966081
+23,num__age,num__T4U,0.006392035
+27,num__on thyroxine,num__TT4,0.0041136337
+28,num__age,num__T3,0.0037701856
+29,num__TSH,num__T3,0.003702425
+31,num__TT4,num__T4U,0.003290679
+33,num__T3,num__T4U,0.0032513828
+34,num__age,num__TT4,0.0032400214
+39,num__age,num__FTI,0.002931889
+40,num__on thyroxine,num__T3,0.0028492762
+42,num__TSH measured,num__TSH,0.002789043
+46,num__TSH,num__T4U,0.0023998283
+49,num__T4U,num__FTI,0.002207629
+56,num__sex,num__T3,0.0017641061
+58,num__tumor,num__T3,0.001604483
+61,num__T3 measured,num__FTI,0.0014276253
+62,num__age,num__TSH,0.0013792377
+65,num__T3 measured,num__T4U,0.0011122315
+66,num__age,num__on thyroxine,0.0010839179
+69,num__TSH measured,num__TT4,0.0010105674
+75,num__T4U measured,num__FTI,0.00092250376
+78,num__sex,num__FTI,0.0008896707
+85,num__T3 measured,num__T3,0.0007380855
+86,num__TSH,num__T4U measured,0.0007318686
+87,num__TT4,num__T4U measured,0.00068938563
+89,num__on thyroxine,num__T4U,0.0006688687
+90,num__thyroid surgery,num__TSH,0.00065329886
+91,num__T3 measured,num__TT4,0.00061817316
+92,num__TSH,num__TT4 measured,0.0006122778
+94,num__sex,num__TT4,0.00055587495
+95,num__FTI measured,num__FTI,0.0005521985
+98,num__on thyroxine,num__T4U measured,0.00053416844
+99,num__TT4 measured,num__FTI,0.00053189887
+101,num__TSH measured,num__T3,0.00051177636
+102,num__TSH measured,num__FTI,0.00050884945
+104,num__TSH,num__T3 measured,0.0004631907
+109,num__age,num__sex,0.00032589934
+113,num__on thyroxine,num__T3 measured,0.00029390855
+116,num__pregnant,num__T3,0.00028661417
+119,num__TSH,num__FTI measured,0.00027748413
+120,num__psych,num__T3,0.00027349853
+127,num__query hypothyroid,num__TT4,0.0002260575
+132,num__pregnant,num__tumor,0.00021335094
+133,num__tumor,num__T4U,0.0002093695
+137,num__TT4 measured,num__TT4,0.00019572585
+139,num__sex,num__T4U,0.00018964581
+140,num__query hypothyroid,num__FTI,0.0001894258
+143,num__on thyroxine,num__thyroid surgery,0.00017158638
+145,num__thyroid surgery,num__FTI,0.00015276397
+147,num__query on thyroxine,num__FTI,0.00014770754
+149,num__T3,num__T4U measured,0.00014583717
+153,num__T3 measured,num__T4U measured,0.0001403251
+157,num__age,num__T3 measured,0.00013407502
+159,num__sex,num__TSH,0.0001321817
+161,num__sex,num__on thyroxine,0.000117283744
+168,num__on thyroxine,num__FTI measured,9.7995e-05
+171,num__TSH measured,num__T4U,9.529503e-05
+174,num__TSH measured,num__T3 measured,8.291705e-05
+175,num__T3,num__FTI measured,8.268678e-05
+176,num__query hyperthyroid,num__TSH,8.122821e-05
+177,num__TT4,num__FTI measured,7.97691e-05
+178,num__age,num__T4U measured,7.9160905e-05
+179,num__tumor,num__FTI,7.726683e-05
+181,num__query hypothyroid,num__TSH,7.634226e-05
+187,num__on thyroxine,num__TSH measured,6.1449886e-05
+192,num__tumor,num__TT4,5.775015e-05
+193,num__thyroid surgery,num__T3,5.7517856e-05
+194,num__age,num__TT4 measured,5.7220623e-05
+195,num__tumor,num__TSH,5.5349516e-05
+199,num__query hyperthyroid,num__T3,5.122707e-05
+200,num__age,num__TSH measured,4.7923644e-05
+203,num__sex,num__T4U measured,4.5131488e-05
+205,num__psych,num__FTI,3.889058e-05
+206,num__T4U,num__FTI measured,3.8241873e-05
+208,num__thyroid surgery,num__TT4,3.720093e-05
+212,num__on thyroxine,num__query hypothyroid,3.378876e-05
+215,num__tumor,num__TSH measured,3.1270556e-05
+216,num__T4U measured,num__T4U,3.1264997e-05
+218,num__age,num__psych,2.9431043e-05
+219,num__query hypothyroid,num__T4U,2.9360996e-05
+221,num__psych,num__TT4,2.7459477e-05
+223,num__query hyperthyroid,num__FTI,2.5620262e-05
+227,num__pregnant,num__TSH,2.2772545e-05
+228,num__on thyroxine,num__TT4 measured,2.2767445e-05
+229,num__age,num__query hyperthyroid,2.12951e-05
+231,num__query hyperthyroid,num__TT4,2.0696254e-05
+236,num__query hypothyroid,num__T3,1.8683826e-05
+237,num__T3 measured,num__FTI measured,1.8343764e-05
+242,num__age,num__tumor,1.5960719e-05
+244,num__age,num__FTI measured,1.4978815e-05
+247,num__pregnant,num__TT4,1.4611637e-05
+248,num__sex,num__psych,1.4175891e-05
+249,num__tumor,num__T3 measured,1.3529667e-05
+251,num__sex,num__TSH measured,1.2829612e-05
+253,num__pregnant,num__T4U,1.2548996e-05
+255,num__psych,num__T4U,1.2378398e-05
+256,num__age,num__query hypothyroid,1.1900075e-05
+260,num__query hyperthyroid,num__T4U,1.013377e-05
+270,num__pregnant,num__FTI,8.337731e-06
+271,num__T3,num__TT4 measured,8.231546e-06
+272,num__psych,num__TSH,8.20295e-06
+273,num__sick,num__TT4,8.189836e-06
+275,num__sex,num__FTI measured,7.5972034e-06
+278,num__goitre,num__FTI,6.9362145e-06
+281,num__T3 measured,num__TT4 measured,6.587447e-06
+282,num__on thyroxine,num__pregnant,6.2236536e-06
+284,num__TT4 measured,num__FTI measured,6.026855e-06
+287,num__query hypothyroid,num__TSH measured,5.6479366e-06
+291,num__I131 treatment,num__T3,5.2662945e-06
+297,num__thyroid surgery,num__TT4 measured,4.5649167e-06
+301,num__age,num__pregnant,3.9319157e-06
+303,num__on thyroxine,num__query hyperthyroid,3.8756225e-06
+304,num__thyroid surgery,num__T4U,3.5224505e-06
+305,num__sex,num__tumor,3.4851578e-06
+307,num__on thyroxine,num__query on thyroxine,3.435511e-06
+308,num__query on thyroxine,num__T3,3.38596e-06
+310,num__age,num__I131 treatment,3.0724852e-06
+315,num__thyroid surgery,num__T4U measured,2.6591522e-06
+317,num__sick,num__T3,2.5449237e-06
+320,num__query on thyroxine,num__T3 measured,2.042127e-06
+321,num__sick,num__T4U,1.9693055e-06
+322,num__sex,num__T3 measured,1.9158324e-06
+323,num__thyroid surgery,num__FTI measured,1.8415514e-06
+324,num__age,num__sick,1.7652554e-06
+325,num__query hyperthyroid,num__TSH measured,1.748741e-06
+326,num__psych,num__T4U measured,1.5848722e-06
+327,num__query hypothyroid,num__T3 measured,1.5822851e-06
+328,num__goitre,num__T3,1.5816495e-06
+332,num__sick,num__FTI,1.4817958e-06
+336,num__on thyroxine,num__tumor,1.2637997e-06
+339,num__query on thyroxine,num__TT4,1.1157463e-06
+340,num__sex,num__query hypothyroid,1.0964192e-06
+342,num__age,num__thyroid surgery,1.0465013e-06
+343,num__psych,num__TSH measured,9.756338e-07
+344,num__sick,num__query hypothyroid,8.9256895e-07
+347,num__thyroid surgery,num__query hypothyroid,8.39859e-07
+353,num__query on thyroxine,num__TSH,6.6082805e-07
+355,num__tumor,num__psych,6.3861586e-07
+356,num__I131 treatment,num__T4U,5.911665e-07
+360,num__sick,num__TSH,5.560618e-07
+363,num__sex,num__thyroid surgery,5.3140735e-07
+364,num__age,num__query on thyroxine,5.2497876e-07
+368,num__thyroid surgery,num__T3 measured,2.3980755e-07
+369,num__on thyroxine,num__sick,2.2095023e-07
+370,num__goitre,num__tumor,2.1866694e-07
+371,num__on thyroxine,num__psych,1.8771048e-07
+372,num__query on thyroxine,num__T4U,1.7659222e-07
+373,num__pregnant,num__TSH measured,1.5321889e-07
+376,num__TT4 measured,num__T4U,1.447755e-07
+382,num__sex,num__query on thyroxine,6.825785e-08
+383,num__pregnant,num__query hyperthyroid,3.0204447e-08
+384,num__query on thyroxine,num__TSH measured,2.2049456e-08
+385,num__query on thyroxine,num__psych,1.9349558e-08
+386,num__query hypothyroid,num__query hyperthyroid,1.499392e-08
+391,num__on antithyroid medication,num__T3 measured,0.0
+392,num__sick,num__T3 measured,0.0
+393,num__on antithyroid medication,num__psych,0.0
+394,num__TT4,num__TBG measured,0.0
+395,num__sick,num__TSH measured,0.0
+396,num__sick,num__psych,0.0
+397,num__on antithyroid medication,num__TSH,0.0
+399,num__on antithyroid medication,num__T3,0.0
+408,num__on antithyroid medication,num__TT4 measured,0.0
+410,num__T4U measured,num__FTI measured,0.0
+411,num__query on thyroxine,num__T4U measured,0.0
+412,num__T4U measured,num__TBG measured,0.0
+413,num__query on thyroxine,num__TT4 measured,0.0
+415,num__T4U,num__TBG measured,0.0
+417,num__sick,num__hypopituitary,0.0
+418,num__pregnant,num__query hypothyroid,0.0
+419,num__pregnant,num__lithium,0.0
+420,num__pregnant,num__goitre,0.0
+421,num__pregnant,num__hypopituitary,0.0
+422,num__pregnant,num__psych,0.0
+423,num__pregnant,num__T3 measured,0.0
+424,num__T3,num__TBG measured,0.0
+425,num__sick,num__TT4 measured,0.0
+426,num__on antithyroid medication,num__TSH measured,0.0
+427,num__sick,num__FTI measured,0.0
+428,num__sick,num__TBG measured,0.0
+432,num__thyroid surgery,num__TSH measured,0.0
+433,num__T3 measured,num__TBG measured,0.0
+435,num__pregnant,num__TT4 measured,0.0
+436,num__sick,num__T4U measured,0.0
+437,num__on antithyroid medication,num__TT4,0.0
+438,num__on antithyroid medication,num__T4U measured,0.0
+439,num__on antithyroid medication,num__T4U,0.0
+440,num__on antithyroid medication,num__FTI measured,0.0
+441,num__on antithyroid medication,num__FTI,0.0
+442,num__on antithyroid medication,num__TBG measured,0.0
+445,num__TT4 measured,num__T4U measured,0.0
+446,num__sick,num__tumor,0.0
+450,num__sick,num__pregnant,0.0
+451,num__sick,num__thyroid surgery,0.0
+452,num__sick,num__I131 treatment,0.0
+453,num__sick,num__query hyperthyroid,0.0
+454,num__sick,num__lithium,0.0
+455,num__sick,num__goitre,0.0
+456,num__TT4 measured,num__TBG measured,0.0
+457,num__lithium,num__TT4 measured,0.0
+458,num__lithium,num__TT4,0.0
+459,num__lithium,num__T4U measured,0.0
+460,num__lithium,num__T4U,0.0
+461,num__lithium,num__FTI measured,0.0
+462,num__lithium,num__FTI,0.0
+463,num__lithium,num__TBG measured,0.0
+477,num__sex,num__TBG measured,0.0
+479,num__on thyroxine,num__on antithyroid medication,0.0
+483,num__sex,num__query hyperthyroid,0.0
+484,num__sex,num__lithium,0.0
+485,num__sex,num__goitre,0.0
+486,num__lithium,num__T3,0.0
+487,num__sex,num__TT4 measured,0.0
+489,num__lithium,num__goitre,0.0
+490,num__lithium,num__tumor,0.0
+491,num__lithium,num__hypopituitary,0.0
+492,num__lithium,num__psych,0.0
+493,num__lithium,num__TSH measured,0.0
+494,num__lithium,num__TSH,0.0
+495,num__lithium,num__T3 measured,0.0
+496,num__sex,num__hypopituitary,0.0
+499,num__FTI measured,num__TBG measured,0.0
+503,num__query on thyroxine,num__on antithyroid medication,0.0
+504,num__query on thyroxine,num__sick,0.0
+505,num__query on thyroxine,num__pregnant,0.0
+507,num__on antithyroid medication,num__pregnant,0.0
+508,num__on antithyroid medication,num__thyroid surgery,0.0
+509,num__on antithyroid medication,num__I131 treatment,0.0
+510,num__on antithyroid medication,num__query hypothyroid,0.0
+511,num__on antithyroid medication,num__query hyperthyroid,0.0
+512,num__on antithyroid medication,num__lithium,0.0
+513,num__on antithyroid medication,num__goitre,0.0
+514,num__on antithyroid medication,num__tumor,0.0
+515,num__on antithyroid medication,num__hypopituitary,0.0
+516,num__on antithyroid medication,num__sick,0.0
+518,num__on thyroxine,num__I131 treatment,0.0
+519,num__on thyroxine,num__lithium,0.0
+520,num__on thyroxine,num__goitre,0.0
+521,num__query on thyroxine,num__thyroid surgery,0.0
+522,num__query on thyroxine,num__I131 treatment,0.0
+523,num__query on thyroxine,num__query hypothyroid,0.0
+524,num__query on thyroxine,num__query hyperthyroid,0.0
+525,num__query on thyroxine,num__lithium,0.0
+527,num__query on thyroxine,num__tumor,0.0
+528,num__query on thyroxine,num__hypopituitary,0.0
+529,num__FTI,num__TBG measured,0.0
+531,num__on thyroxine,num__TBG measured,0.0
+535,num__query on thyroxine,num__FTI measured,0.0
+536,num__query on thyroxine,num__TBG measured,0.0
+537,num__query on thyroxine,num__goitre,0.0
+544,num__tumor,num__hypopituitary,0.0
+545,num__tumor,num__TT4 measured,0.0
+546,num__tumor,num__T4U measured,0.0
+547,num__pregnant,num__TBG measured,0.0
+548,num__query hyperthyroid,num__lithium,0.0
+549,num__query hyperthyroid,num__goitre,0.0
+550,num__query hyperthyroid,num__tumor,0.0
+551,num__goitre,num__TT4 measured,0.0
+552,num__goitre,num__TT4,0.0
+553,num__goitre,num__T4U measured,0.0
+554,num__goitre,num__T4U,0.0
+555,num__goitre,num__FTI measured,0.0
+556,num__goitre,num__TBG measured,0.0
+558,num__query hypothyroid,num__TBG measured,0.0
+560,num__query hyperthyroid,num__hypopituitary,0.0
+561,num__query hyperthyroid,num__psych,0.0
+562,num__tumor,num__FTI measured,0.0
+563,num__tumor,num__TBG measured,0.0
+568,num__hypopituitary,num__TSH measured,0.0
+569,num__hypopituitary,num__TSH,0.0
+570,num__hypopituitary,num__T3 measured,0.0
+571,num__hypopituitary,num__T3,0.0
+572,num__hypopituitary,num__TT4 measured,0.0
+573,num__hypopituitary,num__TT4,0.0
+574,num__hypopituitary,num__T4U measured,0.0
+575,num__hypopituitary,num__T4U,0.0
+578,num__hypopituitary,num__psych,0.0
+579,num__goitre,num__TSH measured,0.0
+580,num__goitre,num__TSH,0.0
+581,num__goitre,num__T3 measured,0.0
+582,num__sex,num__on antithyroid medication,0.0
+583,num__sex,num__sick,0.0
+584,num__sex,num__pregnant,0.0
+585,num__sex,num__I131 treatment,0.0
+594,num__age,num__goitre,0.0
+595,num__age,num__lithium,0.0
+596,num__age,num__on antithyroid medication,0.0
+597,num__on thyroxine,num__hypopituitary,0.0
+598,num__age,num__TBG measured,0.0
+603,num__query hyperthyroid,num__T3 measured,0.0
+604,num__query hyperthyroid,num__TT4 measured,0.0
+605,num__query hyperthyroid,num__T4U measured,0.0
+606,num__query hyperthyroid,num__FTI measured,0.0
+607,num__query hyperthyroid,num__TBG measured,0.0
+609,num__goitre,num__psych,0.0
+619,num__goitre,num__hypopituitary,0.0
+621,num__thyroid surgery,num__tumor,0.0
+622,num__thyroid surgery,num__hypopituitary,0.0
+623,num__thyroid surgery,num__psych,0.0
+624,num__TSH measured,num__T4U measured,0.0
+625,num__TSH measured,num__FTI measured,0.0
+626,num__TSH measured,num__TBG measured,0.0
+629,num__I131 treatment,num__query hypothyroid,0.0
+630,num__query hypothyroid,num__FTI measured,0.0
+631,num__I131 treatment,num__lithium,0.0
+632,num__I131 treatment,num__goitre,0.0
+633,num__I131 treatment,num__tumor,0.0
+634,num__I131 treatment,num__hypopituitary,0.0
+635,num__I131 treatment,num__psych,0.0
+636,num__I131 treatment,num__TSH measured,0.0
+637,num__I131 treatment,num__TSH,0.0
+638,num__I131 treatment,num__T3 measured,0.0
+639,num__I131 treatment,num__TT4 measured,0.0
+640,num__I131 treatment,num__query hyperthyroid,0.0
+641,num__pregnant,num__T4U measured,0.0
+642,num__pregnant,num__FTI measured,0.0
+643,num__age,num__hypopituitary,0.0
+648,num__pregnant,num__thyroid surgery,0.0
+649,num__pregnant,num__I131 treatment,0.0
+650,num__thyroid surgery,num__goitre,0.0
+651,num__I131 treatment,num__T4U measured,0.0
+652,num__I131 treatment,num__FTI measured,0.0
+653,num__thyroid surgery,num__TBG measured,0.0
+656,num__TSH,num__TBG measured,0.0
+658,num__thyroid surgery,num__I131 treatment,0.0
+659,num__thyroid surgery,num__query hyperthyroid,0.0
+660,num__thyroid surgery,num__lithium,0.0
+661,num__I131 treatment,num__TT4,0.0
+662,num__psych,num__T3 measured,0.0
+663,num__psych,num__TT4 measured,0.0
+664,num__psych,num__FTI measured,0.0
+665,num__psych,num__TBG measured,0.0
+668,num__TSH measured,num__TT4 measured,0.0
+669,num__hypopituitary,num__FTI measured,0.0
+670,num__hypopituitary,num__FTI,0.0
+671,num__I131 treatment,num__FTI,0.0
+677,num__query hypothyroid,num__tumor,0.0
+678,num__query hypothyroid,num__hypopituitary,0.0
+679,num__query hypothyroid,num__psych,0.0
+680,num__query hypothyroid,num__TT4 measured,0.0
+681,num__query hypothyroid,num__T4U measured,0.0
+682,num__hypopituitary,num__TBG measured,0.0
+683,num__I131 treatment,num__TBG measured,0.0
+695,num__query hypothyroid,num__lithium,0.0
+696,num__query hypothyroid,num__goitre,0.0
